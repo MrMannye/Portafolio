@@ -114,6 +114,12 @@
         "url": "https://google-docs-clone-xi.vercel.app/"
       },
       {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "amazon.png",
+        "url": "https://hulu-clone-bempa1ga4-mrmannye.vercel.app/"
+      },
+      {
         "title": "Hulu Clone (Next JS)",
         "category": "",
         "image": "hulu.png",
@@ -130,11 +136,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "text": "Excelente trabajo por parte de Miguel, entregas en tiempo y forma. Totalmente recomendado para diferentes trabajos Web",
         "user": "Jorge Fouto"
       },
       {
-        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "text": "Le considero una gran persona digna de confianza y con la aptitud y capacidad para afrontar cualquier responsabilidad que se deje a su cargo. Asimismo, puedo asegurar que es una persona con una ética intachable.",
         "user": "Adam Curtis"
       }
     ]
@@ -142,12 +148,20 @@
   "certificados": {
     "certificados":[
       {
-        "nombre": "Escuela de JavaScript",
-        "imagen": "https://drive.google.com/file/d/1SdF15IyTvrMl7Vm0QqXc5IaRsPIjSnfT/view?usp=sharing"
+        "title": "Escuela de JavaScript",
+        "imagen": "Escuela-JavaScript.jpg"
       },
       {
-        "nombre": "Frontend con ReactJS",
-        "imagen": "https://drive.google.com/file/d/1iP7pPrJGg6c6qtvtxmyujyCB966zFArR/view?usp=sharing"
+        "title": "Frontend con ReactJS",
+        "imagen": "Frontend-React.jpg"
+      },
+      {
+        "title": "Profesional con JavaScript",
+        "imagen": "Profesion-JavaScript.jpg"
+      },
+      {
+        "title": "Blockchain y Criptomonedas",
+        "imagen": "Criptomonedas.jpg"
       }
     ]
   }

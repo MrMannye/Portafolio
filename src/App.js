@@ -28,6 +28,7 @@ const App = () => {
       <About data={resumeData.main} />
       <Resume data={resumeData.resume} />
       <Portfolio data={resumeData.portfolio} />
+      <Certificates data={resumeData.certificados}/>
       <Testimonials data={resumeData.testimonials} />
       <Contact data={resumeData.main} />
       <Footer data={resumeData.main} />
