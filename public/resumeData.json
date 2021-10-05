@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": "Miguel Aguilera",
+    "occupation": "Developer Frontend",
+    "description": "I eat, sleep and breathe React.js",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Manu! You might also know me as PAPA React. I've been coding for over 3 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
+    "email": "superbrandon2018@gmail.com",
+    "phone": "+52 5564007133",
+    "address": {
+      "street": "Villa Franqueza",
+      "city": "CDMX",
+      "state": "Ciudad de México",
+      "zip": "09700"
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "https://drive.google.com/file/d/1EhNfGX0Cdh4_Z5Jpr_Ytf_IF6OZN3nG-/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/Syndicate_YT",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/manuaguis/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/miguel-aguilera-sanchez-233567209/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/manu__7u7/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/MrMannye",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Unidad Profesional Interdisciplinaria en Ingeniería y Tecnologías Avanzadas",
+        "degree": "University Degree, Telematics engineering",
+        "graduated": "Career in progress",
+        "description": "Realizo diferentes programas en varios lenguajes de programacion como lo es C, C++, Java, Javascript, etc. Tambien realizo diferentes proyectos relacioandos con telecomunicaciones con la ayuda de algunos programas como el Matlab y Python"
+      },
+      {
+        "school": "Centro de Estudios Cientificos y Tecnologicos No. 7",
+        "degree": "Bachelor's Degree, Industrial Welding",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Soft Simphony - ISIA",
+        "title": "Web Developer",
+        "years": "March 2021 - Present",
+        "description": "I am working for this enterprise making Frontend developer and also Backend developer on your web site (ReactJS, MYSQL, Node, Express, JWT, Redux, etc). I am currently working on your marketing, designign posters for Instagrama, Facebook and making some videos for Youtube"
+      },
+      {
+        "company": "Emprendimiento - Ender",
+        "title": "Frontend Developer",
+        "years": "January 2020 - December 2020",
+        "description": "I was making and maintaining a website in the Frontend part. The page is a Landig page about how to lead a life of entrepreneurship: skills, resources, abilities, etc. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "100%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "90%"
+      },
+      {
+        "name": "C++",
+        "level": "90%"
+      },
+      {
+        "name": "C",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Docs Clone (Next JS)",
+        "category": "",
+        "image": "docs.png",
+        "url": "https://google-docs-clone-xi.vercel.app/"
+      },
+      {
+        "title": "Hulu Clone (Next JS)",
+        "category": "",
+        "image": "hulu.png",
+        "url": "https://hulu-clone-bempa1ga4-mrmannye.vercel.app/"
+      },
+      {
+        "title": "Netflix Clone (React JS)",
+        "category": "",
+        "image": "netflix.png",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  },
+  "certificados": {
+    "certificados":[
+      {
+        "nombre": "Escuela de JavaScript",
+        "imagen": "https://drive.google.com/file/d/1SdF15IyTvrMl7Vm0QqXc5IaRsPIjSnfT/view?usp=sharing"
+      },
+      {
+        "nombre": "Frontend con ReactJS",
+        "imagen": "https://drive.google.com/file/d/1iP7pPrJGg6c6qtvtxmyujyCB966zFArR/view?usp=sharing"
+      }
+    ]
+  }
+}
